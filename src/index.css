@@ -38,7 +38,6 @@ body {
   flex-wrap: wrap;
   gap: 3rem;
   padding: 1.5rem;
-  background-color: rgb(81, 80, 80);
 }
 
 .container .notes {
